@@ -1,7 +1,7 @@
 {
     "id": 646,
     "name": "Ice wolf",
-    "last_updated": "2022-12-31",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2005-01-05",
@@ -55,18 +55,18 @@
             "id": 2859,
             "name": "Wolf bones",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 7830,
             "name": "Wolf bone",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.25,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

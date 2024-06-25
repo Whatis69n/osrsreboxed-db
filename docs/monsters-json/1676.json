@@ -1,7 +1,7 @@
 {
     "id": 1676,
     "name": "Torag the Corrupted",
-    "last_updated": "2024-06-01",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2005-05-09",
@@ -57,9 +57,9 @@
             "id": 23083,
             "name": "Brimstone key",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.010309278350515464,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

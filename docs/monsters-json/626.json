@@ -1,7 +1,7 @@
 {
     "id": 626,
     "name": "Fever spider",
-    "last_updated": "2023-08-03",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2005-10-31",
@@ -54,18 +54,90 @@
             "id": 6718,
             "name": "Fever spider body",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 225,
+            "name": "Limpwurt root",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1357,
+            "name": "Adamant axe",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 2495,
+            "name": "Red d'hide chaps",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1371,
+            "name": "Adamant battleaxe",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 1145,
+            "name": "Adamant med helm",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 213,
             "name": "Grimy kwuarm",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.08333333333333333,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 365,
+            "name": "Bass",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 995,
+            "name": "Coins",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 7936,
+            "name": "Pure essence",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

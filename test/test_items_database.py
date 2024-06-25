@@ -47,5 +47,11 @@ def test_item_database():
     for json_file in fis:
         with open(json_file) as fi:
             item = json.load(fi)
-            # print(item["id"])
-            assert v.validate(item)
+            # Validate the item and capture the result
+            is_valid = v.validate(item)
+            if not is_valid:
+                # Print the item and the validation error
+                print(f"Validation failed for item: {json_file}")
+                print(f"Item content: {json.dumps(item, indent=2)}")
+                print(f"Validation errors: {v.errors}")
+            assert is_valid, f"Validation failed for item: {json_file}"

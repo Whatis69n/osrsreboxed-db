@@ -1,7 +1,7 @@
 {
     "id": 243,
     "name": "Baby blue dragon",
-    "last_updated": "2024-06-01",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2002-02-27",
@@ -59,27 +59,36 @@
             "id": 534,
             "name": "Babydragon bones",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 7839,
             "name": "Baby dragon bone",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.25,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 27897,
+            "name": "Scaly blue dragonhide",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 23083,
             "name": "Brimstone key",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.0015625,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

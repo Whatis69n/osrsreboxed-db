@@ -1,7 +1,7 @@
 {
     "id": 797,
     "name": "Giant Scarab",
-    "last_updated": "2024-06-01",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2007-01-10",
@@ -56,9 +56,9 @@
             "id": 10581,
             "name": "Keris",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

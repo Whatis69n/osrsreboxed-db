@@ -1,7 +1,7 @@
 {
     "id": 1285,
     "name": "Fiyr Shadow",
-    "last_updated": "2023-04-25",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2006-03-28",
@@ -57,9 +57,9 @@
             "id": 3404,
             "name": "Fiyr remains",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

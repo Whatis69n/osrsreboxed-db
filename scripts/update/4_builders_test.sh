@@ -26,13 +26,13 @@ odb=$(cd ../..; pwd)
 export PYTHONPATH="$(dirname "$(dirname "$(pwd)")")"
 
 cd $odb
-python3 -m venv venv
+py -m venv venv
 source venv/bin/activate
 
 echo -e ">>> Testing item database builder"
 cd $odb/builders/items/
-python3 builder.py --test=True
+py builder.py --test=True
 
 echo -e ">>> Testing monster database builder"
 cd $odb/builders/monsters/
-python3 builder.py --test=True
+py builder.py --test=True

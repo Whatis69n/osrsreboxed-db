@@ -1,7 +1,7 @@
 {
     "id": 3329,
     "name": "Giant Champion",
-    "last_updated": "2020-12-25",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2005-12-12",
@@ -49,18 +49,18 @@
             "id": 10976,
             "name": "Long bone",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.0025,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 10977,
             "name": "Curved bone",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.00019950124688279303,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

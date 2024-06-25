@@ -1,7 +1,7 @@
 {
     "id": 4822,
     "name": "Crab",
-    "last_updated": "2023-08-03",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2006-03-15",
@@ -49,36 +49,36 @@
             "id": 7518,
             "name": "Crab meat",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 7536,
             "name": "Fresh crab claw",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.0625,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 7538,
             "name": "Fresh crab shell",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.0625,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 407,
             "name": "Oyster",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.1,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

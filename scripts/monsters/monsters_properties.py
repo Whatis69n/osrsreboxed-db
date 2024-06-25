@@ -36,29 +36,40 @@ from scripts.wiki.wiki_page_titles import WikiPageTitles
 from scripts.wiki.wiki_page_text import WikiPageText
 from scripts.wiki.wikitext_parser import WikitextIDParser
 
-
 OSRS_WIKI_API_URL = "https://oldschool.runescape.wiki/api.php"
 TITLES_FP = Path(config.DATA_MONSTERS_PATH / "monsters-wiki-page-titles.json")
 TEXT_FP = Path(config.DATA_MONSTERS_PATH / "monsters-wiki-page-text.json")
 RG = r" \+[0-9]{4}"
 
+
 def fetch():
     """Get all the wiki category page titles and page text."""
     # Try to determine the last update
     if TITLES_FP.exists():
+        # Read the last commit date from Git log
         stream = os.popen(f"git log -1 --format='%ad' {TITLES_FP}")
-        last_extraction_date = stream.read()
-        last_extraction_date = last_extraction_date.strip()
+        last_extraction_date = stream.read().strip()
+
+        # Clean up the datetime string and remove unnecessary characters
+        last_extraction_date = last_extraction_date.strip("'")
         last_extraction_date = re.sub(RG, '', last_extraction_date)
-        last_extraction_date = datetime.strptime(last_extraction_date, "%a %b %d %H:%M:%S %Y")
+
+        # Parse the datetime string considering timezone info
+        try:
+            last_extraction_date = datetime.strptime(last_extraction_date, "%a %b %d %H:%M:%S %Y %z")
+        except ValueError:
+            # Handle if the timezone info is missing
+            last_extraction_date = datetime.strptime(last_extraction_date, "%a %b %d %H:%M:%S %Y")
+
+        # Subtract 3 days from the last extraction date
         last_extraction_date = last_extraction_date - timedelta(days=3)
     else:
+        # If the file doesn't exist, fallback to a default date
         last_extraction_date = datetime.strptime("2013-02-22", "%Y-%m-%d")
 
     print(">>> Starting wiki page titles extraction...")
     # Create object to handle page titles extraction
-    wiki_page_titles = WikiPageTitles(OSRS_WIKI_API_URL,
-                                      ["Monsters"])
+    wiki_page_titles = WikiPageTitles(OSRS_WIKI_API_URL, ["Monsters"])
 
     # Boolean to trigger load page titles from file, or run fresh page title extraction
     load_files = False
@@ -67,10 +78,11 @@ def fetch():
     if load_files:
         loaded_page_titles = wiki_page_titles.load_page_titles(TITLES_FP)
         if not loaded_page_titles:
-            sys.exit(">>> ERROR: Specified page titles to load, but not file found. Exiting.")
+            sys.exit(">>> ERROR: Specified page titles to load, but no file found. Exiting.")
     else:
         # Extract page titles using supplied categories
         wiki_page_titles.extract_page_titles()
+
         # Extract page revision date
         # Loop 50 page titles at a time, the max number for a revisions request using page titles
         for page_title_list in itertools.zip_longest(*[iter(wiki_page_titles.page_titles)] * 50):
@@ -80,7 +92,8 @@ def fetch():
             page_titles_string = "|".join(page_title_list)
             # Extract the page revision date
             wiki_page_titles.extract_last_revision_timestamp(page_titles_string)
-        # Save all page titles and
+
+        # Save all page titles
         wiki_page_titles.export_page_titles_in_json(TITLES_FP)
 
     # Determine page titles count
@@ -88,7 +101,7 @@ def fetch():
     print(f">>> Number of extracted wiki pages: {page_titles_total}")
 
     # Open page title JSON file, to check if page needs to have wiki text extracted
-    json_data = dict()
+    json_data = {}
 
     if TEXT_FP.exists():
         with open(TEXT_FP, mode="r") as existing_out_file:
@@ -99,17 +112,8 @@ def fetch():
     for page_title, page_revision_date in wiki_page_titles.page_titles.items():
         print(f"  > Progress: {page_titles_count:4d} of {page_titles_total:4d} - Processing: {page_title}")
 
-        # If script fails:
-        # 1) Set load_files (above) to True
-        # 2) Uncomment code below, and set item ID to last failed item
-        # 3) Use this script: python monster_properties_fetch -c Monsters
-        # if int(page_titles_count) < 5400:
-        #     page_titles_count += 1
-        #     continue
-
         # Convert revision date to datetime object
-        last_revision_date = datetime.strptime(wiki_page_titles[page_title],
-                                               "%Y-%m-%dT%H:%M:%SZ")
+        last_revision_date = datetime.strptime(page_revision_date, "%Y-%m-%dT%H:%M:%SZ")
 
         # Check if page title is already present in JSON output file, also check revision date
         if page_title in json_data and last_revision_date < last_extraction_date:
@@ -118,8 +122,7 @@ def fetch():
             continue
 
         # Create object to extract page wiki text
-        wiki_page_text = WikiPageText(OSRS_WIKI_API_URL,
-                                      page_title)
+        wiki_page_text = WikiPageText(OSRS_WIKI_API_URL, page_title)
 
         # If the page title has not been extracted, extract wiki text and save to JSON file
         wiki_page_text.extract_page_wiki_text()

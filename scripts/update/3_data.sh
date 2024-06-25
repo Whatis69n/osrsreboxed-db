@@ -27,21 +27,21 @@ export PYTHONPATH="$(dirname "$(dirname "$(pwd)")")"
 
 echo -e ">>> Updating project data..."
 cd $odb
-python3 -m venv venv
+py -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
 echo -e "  > cache..."
 cd $odb/scripts/cache
-python3 update.py
+py update.py
 
 echo -e "  > items..."
 cd $odb/scripts/items
-python3 update.py
+py update.py
 cd $odb/scripts/icons
-python3 update_icons.py
-python3 convert_item_icons.py
+py update_icons.py
+py convert_item_icons.py
 
 echo -e "  > monsters..."
 cd $odb/scripts/monsters
-python3 update.py
+py update.py

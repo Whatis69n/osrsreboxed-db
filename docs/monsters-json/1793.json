@@ -1,7 +1,7 @@
 {
     "id": 1793,
     "name": "Goat",
-    "last_updated": "2022-09-13",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2006-10-18",
@@ -49,18 +49,18 @@
             "id": 526,
             "name": "Bones",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 9735,
             "name": "Desert goat horn",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

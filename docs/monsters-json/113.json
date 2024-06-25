@@ -1,7 +1,7 @@
 {
     "id": 113,
     "name": "Wild dog",
-    "last_updated": "2021-07-12",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2005-01-17",
@@ -55,18 +55,18 @@
             "id": 526,
             "name": "Bones",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 13468,
             "name": "Ensouled dog head",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.04,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

@@ -1,7 +1,7 @@
 {
     "id": 5258,
     "name": "Duke",
-    "last_updated": "2024-04-16",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2004-12-06",
@@ -52,11 +52,11 @@
     "drops": [
         {
             "id": 3180,
-            "name": "Monkey bones (medium ninja)",
+            "name": "Medium ninja monkey bones",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

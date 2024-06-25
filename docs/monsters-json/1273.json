@@ -1,7 +1,7 @@
 {
     "id": 1273,
     "name": "Experiment",
-    "last_updated": "2020-12-25",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2005-01-31",
@@ -46,21 +46,12 @@
     "defence_ranged": 0,
     "drops": [
         {
-            "id": 526,
-            "name": "Bones",
-            "members": false,
-            "quantity": "1",
-            "noted": false,
-            "rarity": 1.0,
-            "rolls": 1
-        },
-        {
-            "id": 7893,
-            "name": "Experiment bone",
+            "id": 4184,
+            "name": "Cavern key",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.25,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

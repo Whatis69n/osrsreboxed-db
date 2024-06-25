@@ -1,7 +1,7 @@
 {
     "id": 2921,
     "name": "Lost barbarian",
-    "last_updated": "2020-12-25",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2007-07-03",
@@ -49,9 +49,9 @@
             "id": 11337,
             "name": "Mangled bones",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

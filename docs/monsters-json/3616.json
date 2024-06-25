@@ -1,7 +1,7 @@
 {
     "id": 3616,
     "name": "Treus Dayth",
-    "last_updated": "2022-06-28",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2004-12-21",
@@ -58,9 +58,9 @@
             "id": 23182,
             "name": "Clue scroll (beginner)",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.011111111111111112,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

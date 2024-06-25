@@ -1,7 +1,7 @@
 {
     "id": 2454,
     "name": "Animated Mithril Armour",
-    "last_updated": "2022-06-28",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2006-06-13",
@@ -49,36 +49,36 @@
             "id": 8851,
             "name": "Warrior guild token",
             "members": true,
-            "quantity": "25",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 1159,
             "name": "Mithril full helm",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 1121,
             "name": "Mithril platebody",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 1071,
             "name": "Mithril platelegs",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

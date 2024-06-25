@@ -1,7 +1,7 @@
 {
     "id": 5243,
     "name": "Jungle spider",
-    "last_updated": "2022-06-28",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2004-12-06",
@@ -51,9 +51,9 @@
             "id": 6291,
             "name": "Spider carcass",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

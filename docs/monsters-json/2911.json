@@ -1,7 +1,7 @@
 {
     "id": 2911,
     "name": "Carnivorous chinchompa",
-    "last_updated": "2021-08-05",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2006-11-21",
@@ -49,9 +49,18 @@
             "id": 10034,
             "name": "Red chinchompa",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 29235,
+            "name": "Red chinchompa tuft",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

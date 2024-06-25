@@ -1,7 +1,7 @@
 {
     "id": 3551,
     "name": "Tough Guy",
-    "last_updated": "2021-05-30",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2005-04-04",
@@ -49,18 +49,18 @@
             "id": 526,
             "name": "Bones",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 4600,
             "name": "Willow blackjack",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

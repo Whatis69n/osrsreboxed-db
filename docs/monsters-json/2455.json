@@ -1,7 +1,7 @@
 {
     "id": 2455,
     "name": "Animated Adamant Armour",
-    "last_updated": "2022-06-28",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2006-06-13",
@@ -49,36 +49,36 @@
             "id": 8851,
             "name": "Warrior guild token",
             "members": true,
-            "quantity": "30",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 1161,
             "name": "Adamant full helm",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 1123,
             "name": "Adamant platebody",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 1073,
             "name": "Adamant platelegs",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

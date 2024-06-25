@@ -1,7 +1,7 @@
 {
     "id": 1443,
     "name": "Jungle Demon",
-    "last_updated": "2022-12-31",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2004-12-06",
@@ -49,12 +49,12 @@
     "defence_ranged": 0,
     "drops": [
         {
-            "id": 592,
-            "name": "Ashes",
-            "members": false,
-            "quantity": "1",
+            "id": 25772,
+            "name": "Malicious ashes",
+            "members": true,
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

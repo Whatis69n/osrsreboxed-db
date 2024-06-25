@@ -1,7 +1,7 @@
 {
     "id": 4881,
     "name": "Flambeed",
-    "last_updated": "2022-06-28",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2006-03-15",
@@ -45,5 +45,15 @@
     "defence_crush": 5,
     "defence_magic": 5,
     "defence_ranged": 50,
-    "drops": []
+    "drops": [
+        {
+            "id": 1891,
+            "name": "Cake",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
+            "rolls": 1
+        }
+    ]
 }

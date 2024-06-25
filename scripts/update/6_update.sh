@@ -26,14 +26,14 @@ odb=$(cd ../..; pwd)
 export PYTHONPATH="$(dirname "$(dirname "$(pwd)")")"
 
 cd $odb
-python3 -m venv venv
+py -m venv venv
 source venv/bin/activate
 
 echo -e ">>> Running JSON population scripts..."
 cd $odb/scripts/update/
-python3 update_json_files.py
+py update_json_files.py
 
 echo -e ">>> Running repo tests..."
 cd $odb
-python3 -m flake8
-python3 -m pytest test
+py -m flake8
+py -m pytest test

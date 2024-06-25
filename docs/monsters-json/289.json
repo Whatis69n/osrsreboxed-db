@@ -1,7 +1,7 @@
 {
     "id": 289,
     "name": "Ghoul",
-    "last_updated": "2021-09-02",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2004-10-14",
@@ -54,27 +54,27 @@
             "id": 526,
             "name": "Bones",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 7881,
             "name": "Ghoul bone",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.25,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 6799,
             "name": "Ghoul champion scroll",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.0002,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

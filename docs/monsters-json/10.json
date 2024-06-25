@@ -1,7 +1,7 @@
 {
     "id": 10,
     "name": "Death spawn",
-    "last_updated": "2021-08-05",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2005-01-26",
@@ -50,9 +50,9 @@
             "id": 25766,
             "name": "Fiendish ashes",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

@@ -1,7 +1,7 @@
 {
     "id": 2791,
     "name": "Cow",
-    "last_updated": "2022-06-28",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": false,
     "release_date": "2001-04-06",
@@ -54,36 +54,36 @@
             "id": 1739,
             "name": "Cowhide",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 2132,
             "name": "Raw beef",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 526,
             "name": "Bones",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 23182,
             "name": "Clue scroll (beginner)",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.0078125,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

@@ -1,7 +1,7 @@
 {
     "id": 2532,
     "name": "Ghost",
-    "last_updated": "2024-06-01",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": false,
     "release_date": "2006-07-04",
@@ -49,15 +49,5 @@
     "defence_crush": 5,
     "defence_magic": -5,
     "defence_ranged": 0,
-    "drops": [
-        {
-            "id": 23182,
-            "name": "Clue scroll (beginner)",
-            "members": false,
-            "quantity": "1",
-            "noted": false,
-            "rarity": 0.011111111111111112,
-            "rolls": 1
-        }
-    ]
+    "drops": []
 }

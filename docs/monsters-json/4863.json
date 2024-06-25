@@ -1,7 +1,7 @@
 {
     "id": 4863,
     "name": "Jubbly bird",
-    "last_updated": "2023-04-25",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2006-03-15",
@@ -47,27 +47,27 @@
             "id": 532,
             "name": "Big bones",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 7566,
             "name": "Raw jubbly",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 314,
             "name": "Feather",
             "members": false,
-            "quantity": "25-32",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

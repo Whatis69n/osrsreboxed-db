@@ -1,7 +1,7 @@
 {
     "id": 1282,
     "name": "Riyl Shade",
-    "last_updated": "2021-09-02",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2004-10-18",
@@ -58,9 +58,9 @@
             "id": 3400,
             "name": "Riyl remains",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

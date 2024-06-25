@@ -1,7 +1,7 @@
 {
     "id": 1475,
     "name": "Chompy bird",
-    "last_updated": "2021-07-12",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2004-05-18",
@@ -52,27 +52,36 @@
             "id": 526,
             "name": "Bones",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 2876,
             "name": "Raw chompy",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 314,
+            "name": "Feather",
+            "members": false,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 13071,
             "name": "Chompy chick",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.002,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

@@ -1,7 +1,7 @@
 {
     "id": 1284,
     "name": "Asyn Shade",
-    "last_updated": "2023-04-25",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2004-10-18",
@@ -58,9 +58,9 @@
             "id": 3402,
             "name": "Asyn remains",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

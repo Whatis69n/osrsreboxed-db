@@ -1,7 +1,7 @@
 {
     "id": 3026,
     "name": "Pit Scorpion",
-    "last_updated": "2024-05-11",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2003-08-20",
@@ -55,18 +55,18 @@
             "id": 13459,
             "name": "Ensouled scorpion head",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.04,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 23182,
             "name": "Clue scroll (beginner)",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.01,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

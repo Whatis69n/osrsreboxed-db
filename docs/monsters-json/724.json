@@ -1,7 +1,7 @@
 {
     "id": 724,
     "name": "Mummy",
-    "last_updated": "2024-03-22",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2005-04-18",
@@ -50,9 +50,9 @@
             "id": 592,
             "name": "Ashes",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

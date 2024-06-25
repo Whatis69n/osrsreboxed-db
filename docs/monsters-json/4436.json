@@ -1,7 +1,7 @@
 {
     "id": 4436,
     "name": "Vampyre Juvenile",
-    "last_updated": "2023-04-25",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2006-03-22",
@@ -60,9 +60,18 @@
             "id": 3325,
             "name": "Vampyre dust",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
+            "rolls": 1
+        },
+        {
+            "id": 23083,
+            "name": "Brimstone key",
+            "members": true,
+            "quantity": null,
+            "noted": false,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

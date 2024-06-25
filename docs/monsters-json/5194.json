@@ -1,7 +1,7 @@
 {
     "id": 5194,
     "name": "Baby green dragon",
-    "last_updated": "2021-07-12",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2015-09-10",
@@ -55,9 +55,9 @@
             "id": 534,
             "name": "Babydragon bones",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

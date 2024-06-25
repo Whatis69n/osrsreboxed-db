@@ -1,7 +1,7 @@
 {
     "id": 991,
     "name": "Sigmund",
-    "last_updated": "2021-08-05",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": true,
     "release_date": "2006-06-21",
@@ -49,9 +49,9 @@
             "id": 5010,
             "name": "Key (The Lost Tribe)",
             "members": true,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]

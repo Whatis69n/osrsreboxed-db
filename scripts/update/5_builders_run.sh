@@ -26,7 +26,7 @@ odb=$(cd ../..; pwd)
 export PYTHONPATH="$(dirname "$(dirname "$(pwd)")")"
 
 cd $odb
-python3 -m venv venv
+py -m venv venv
 source venv/bin/activate
 
 echo -e ">>> Updating item database"
@@ -34,11 +34,11 @@ rm -R $odb/docs/items-json/
 mkdir $odb/docs/items-json/
 
 cd $odb/builders/items/
-python3 builder.py --export=True
+py builder.py --export=True
 
 echo -e ">>> Updating monster database"
 rm -R $odb/docs/monsters-json/
 mkdir $odb/docs/monsters-json/
 
 cd $odb/builders/monsters/
-python3 builder.py --export=True
+py builder.py --export=True

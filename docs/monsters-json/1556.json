@@ -1,7 +1,7 @@
 {
     "id": 1556,
     "name": "Fire wizard",
-    "last_updated": "2023-08-03",
+    "last_updated": "2024-06-25",
     "incomplete": true,
     "members": false,
     "release_date": "2005-09-26",
@@ -49,27 +49,27 @@
             "id": 592,
             "name": "Ashes",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 1.0,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 554,
             "name": "Fire rune",
             "members": false,
-            "quantity": "5-10",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.95,
+            "rarity": 0.001953125,
             "rolls": 1
         },
         {
             "id": 1442,
             "name": "Fire talisman",
             "members": false,
-            "quantity": "1",
+            "quantity": null,
             "noted": false,
-            "rarity": 0.05,
+            "rarity": 0.001953125,
             "rolls": 1
         }
     ]
