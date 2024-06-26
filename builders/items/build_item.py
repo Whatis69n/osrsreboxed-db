@@ -419,7 +419,8 @@ class BuildItem:
 
         # Initialize empty equipment dictionary
         self.item_dict["equipment"] = dict()
-
+        if self.item_dict["id"] in [18555, 18556, 18557, 18558, 18559, 18560, 18561, 18562, 18563, 18564, 18565, 18566, 18567, 18568, 18569, 18570, 18571, 18572, 18573, 18574, 18575, 18576, 18577, 18578, 18579]:
+            self.item_dict["equipment"] = None
         # STAGE ONE: EQUIPMENT
 
         # Extract the infobox bonuses template

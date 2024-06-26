@@ -7410,7 +7410,7 @@
     "19484": {
         "id": 19484,
         "name": "Dragon javelin",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7463,7 +7463,7 @@
     "19486": {
         "id": 19486,
         "name": "Dragon javelin(p)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7516,7 +7516,7 @@
     "19488": {
         "id": 19488,
         "name": "Dragon javelin(p+)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7569,7 +7569,7 @@
     "19490": {
         "id": 19490,
         "name": "Dragon javelin(p++)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7622,7 +7622,7 @@
     "20220": {
         "id": 20220,
         "name": "Holy blessing",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7673,7 +7673,7 @@
     "20223": {
         "id": 20223,
         "name": "Unholy blessing",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7724,7 +7724,7 @@
     "20226": {
         "id": 20226,
         "name": "Peaceful blessing",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7775,7 +7775,7 @@
     "20229": {
         "id": 20229,
         "name": "Honourable blessing",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7826,7 +7826,7 @@
     "20232": {
         "id": 20232,
         "name": "War blessing",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7877,7 +7877,7 @@
     "20235": {
         "id": 20235,
         "name": "Ancient blessing",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7928,7 +7928,7 @@
     "20388": {
         "id": 20388,
         "name": "Adamant arrow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -7981,7 +7981,7 @@
     "20389": {
         "id": 20389,
         "name": "Dragon arrow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -8034,7 +8034,7 @@
     "20600": {
         "id": 20600,
         "name": "Rune arrow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -8087,7 +8087,7 @@
     "21316": {
         "id": 21316,
         "name": "Amethyst broad bolts",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8141,7 +8141,7 @@
     "21318": {
         "id": 21318,
         "name": "Amethyst javelin",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8194,7 +8194,7 @@
     "21320": {
         "id": 21320,
         "name": "Amethyst javelin(p)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8247,7 +8247,7 @@
     "21322": {
         "id": 21322,
         "name": "Amethyst javelin(p+)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8300,7 +8300,7 @@
     "21324": {
         "id": 21324,
         "name": "Amethyst javelin(p++)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8353,7 +8353,7 @@
     "21326": {
         "id": 21326,
         "name": "Amethyst arrow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8406,7 +8406,7 @@
     "21328": {
         "id": 21328,
         "name": "Amethyst fire arrow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8459,7 +8459,7 @@
     "21330": {
         "id": 21330,
         "name": "Amethyst fire arrow (lit)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8512,7 +8512,7 @@
     "21332": {
         "id": 21332,
         "name": "Amethyst arrow(p)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8565,7 +8565,7 @@
     "21334": {
         "id": 21334,
         "name": "Amethyst arrow(p+)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8618,7 +8618,7 @@
     "21336": {
         "id": 21336,
         "name": "Amethyst arrow(p++)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8671,7 +8671,7 @@
     "21905": {
         "id": 21905,
         "name": "Dragon bolts",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8724,7 +8724,7 @@
     "21924": {
         "id": 21924,
         "name": "Dragon bolts (p)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8777,7 +8777,7 @@
     "21926": {
         "id": 21926,
         "name": "Dragon bolts (p+)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8830,7 +8830,7 @@
     "21928": {
         "id": 21928,
         "name": "Dragon bolts (p++)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8883,7 +8883,7 @@
     "21932": {
         "id": 21932,
         "name": "Opal dragon bolts (e)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8936,7 +8936,7 @@
     "21934": {
         "id": 21934,
         "name": "Jade dragon bolts (e)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8989,7 +8989,7 @@
     "21936": {
         "id": 21936,
         "name": "Pearl dragon bolts (e)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9042,7 +9042,7 @@
     "21938": {
         "id": 21938,
         "name": "Topaz dragon bolts (e)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9095,7 +9095,7 @@
     "21940": {
         "id": 21940,
         "name": "Sapphire dragon bolts (e)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9148,7 +9148,7 @@
     "21942": {
         "id": 21942,
         "name": "Emerald dragon bolts (e)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9201,7 +9201,7 @@
     "21944": {
         "id": 21944,
         "name": "Ruby dragon bolts (e)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9254,7 +9254,7 @@
     "21946": {
         "id": 21946,
         "name": "Diamond dragon bolts (e)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9307,7 +9307,7 @@
     "21948": {
         "id": 21948,
         "name": "Dragonstone dragon bolts (e)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9360,7 +9360,7 @@
     "21950": {
         "id": 21950,
         "name": "Onyx dragon bolts (e)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9413,7 +9413,7 @@
     "21955": {
         "id": 21955,
         "name": "Opal dragon bolts",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9466,7 +9466,7 @@
     "21957": {
         "id": 21957,
         "name": "Jade dragon bolts",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9519,7 +9519,7 @@
     "21959": {
         "id": 21959,
         "name": "Pearl dragon bolts",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9572,7 +9572,7 @@
     "21961": {
         "id": 21961,
         "name": "Topaz dragon bolts",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9625,7 +9625,7 @@
     "21963": {
         "id": 21963,
         "name": "Sapphire dragon bolts",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9678,7 +9678,7 @@
     "21965": {
         "id": 21965,
         "name": "Emerald dragon bolts",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9731,7 +9731,7 @@
     "21967": {
         "id": 21967,
         "name": "Ruby dragon bolts",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9784,7 +9784,7 @@
     "21969": {
         "id": 21969,
         "name": "Diamond dragon bolts",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9837,7 +9837,7 @@
     "21971": {
         "id": 21971,
         "name": "Dragonstone dragon bolts",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9890,7 +9890,7 @@
     "21973": {
         "id": 21973,
         "name": "Onyx dragon bolts",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9943,7 +9943,7 @@
     "22227": {
         "id": 22227,
         "name": "Bullet arrow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -9994,7 +9994,7 @@
     "22228": {
         "id": 22228,
         "name": "Field arrow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -10045,7 +10045,7 @@
     "22229": {
         "id": 22229,
         "name": "Blunt arrow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -10096,7 +10096,7 @@
     "22230": {
         "id": 22230,
         "name": "Barbed arrow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -10147,7 +10147,7 @@
     "22941": {
         "id": 22941,
         "name": "Rada's blessing 1",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -10198,7 +10198,7 @@
     "22943": {
         "id": 22943,
         "name": "Rada's blessing 2",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -10249,7 +10249,7 @@
     "22945": {
         "id": 22945,
         "name": "Rada's blessing 3",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -10300,7 +10300,7 @@
     "22947": {
         "id": 22947,
         "name": "Rada's blessing 4",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -10351,7 +10351,7 @@
     "23648": {
         "id": 23648,
         "name": "Dragon javelin",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -10404,7 +10404,7 @@
     "23649": {
         "id": 23649,
         "name": "Diamond bolts (e)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -10457,7 +10457,7 @@
     "24721": {
         "id": 24721,
         "name": "Hallowed grapple",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -10508,7 +10508,7 @@
     "27192": {
         "id": 27192,
         "name": "Opal dragon bolts (e)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -10559,7 +10559,7 @@
     "27483": {
         "id": 27483,
         "name": "Terrifying charm",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -10610,7 +10610,7 @@
     "27544": {
         "id": 27544,
         "name": "Ghommal's lucky penny",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -10661,7 +10661,7 @@
     "28837": {
         "id": 28837,
         "name": "Irit tar",
-        "last_updated": "2024-06-25",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -10712,7 +10712,7 @@
     "28872": {
         "id": 28872,
         "name": "Sunlight antler bolts",
-        "last_updated": "2024-03-22",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -10763,7 +10763,7 @@
     "28878": {
         "id": 28878,
         "name": "Moonlight antler bolts",
-        "last_updated": "2024-05-11",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -10814,7 +10814,7 @@
     "28991": {
         "id": 28991,
         "name": "Atlatl dart",
-        "last_updated": "2024-04-16",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,

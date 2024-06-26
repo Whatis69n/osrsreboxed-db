@@ -17052,7 +17052,7 @@
     "19478": {
         "id": 19478,
         "name": "Light ballista",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -17131,7 +17131,7 @@
     "19481": {
         "id": 19481,
         "name": "Heavy ballista",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -17210,7 +17210,7 @@
     "19918": {
         "id": 19918,
         "name": "Nunchaku",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -17287,7 +17287,7 @@
     "19941": {
         "id": 19941,
         "name": "Heavy casket",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -17364,7 +17364,7 @@
     "20155": {
         "id": 20155,
         "name": "Gilded 2h sword",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -17450,7 +17450,7 @@
     "20158": {
         "id": 20158,
         "name": "Gilded spear",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -17536,7 +17536,7 @@
     "20164": {
         "id": 20164,
         "name": "Large spade",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -17613,7 +17613,7 @@
     "20249": {
         "id": 20249,
         "name": "Clueless scroll",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -17690,7 +17690,7 @@
     "20368": {
         "id": 20368,
         "name": "Armadyl godsword (or)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -17776,7 +17776,7 @@
     "20370": {
         "id": 20370,
         "name": "Bandos godsword (or)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -17862,7 +17862,7 @@
     "20372": {
         "id": 20372,
         "name": "Saradomin godsword (or)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -17948,7 +17948,7 @@
     "20374": {
         "id": 20374,
         "name": "Zamorak godsword (or)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -18034,7 +18034,7 @@
     "20397": {
         "id": 20397,
         "name": "Spear",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -18111,7 +18111,7 @@
     "20401": {
         "id": 20401,
         "name": "Yew shortbow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -18190,7 +18190,7 @@
     "20403": {
         "id": 20403,
         "name": "Maple shortbow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -18269,7 +18269,7 @@
     "20408": {
         "id": 20408,
         "name": "Dark bow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -18348,7 +18348,7 @@
     "20555": {
         "id": 20555,
         "name": "Rune 2h sword",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -18434,7 +18434,7 @@
     "20557": {
         "id": 20557,
         "name": "Granite maul",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -18513,7 +18513,7 @@
     "20558": {
         "id": 20558,
         "name": "Magic shortbow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -18592,7 +18592,7 @@
     "20559": {
         "id": 20559,
         "name": "Dragon 2h sword",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -18678,7 +18678,7 @@
     "20593": {
         "id": 20593,
         "name": "Armadyl godsword",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -18764,7 +18764,7 @@
     "20756": {
         "id": 20756,
         "name": "Hill giant club",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -18843,7 +18843,7 @@
     "20784": {
         "id": 20784,
         "name": "Dragon claws",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -18929,7 +18929,7 @@
     "20836": {
         "id": 20836,
         "name": "Giant present",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -19006,7 +19006,7 @@
     "20997": {
         "id": 20997,
         "name": "Twisted bow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -19085,7 +19085,7 @@
     "21003": {
         "id": 21003,
         "name": "Elder maul",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -19165,7 +19165,7 @@
     "21015": {
         "id": 21015,
         "name": "Dinh's bulwark",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -19238,7 +19238,7 @@
     "21205": {
         "id": 21205,
         "name": "Elder maul",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -19318,7 +19318,7 @@
     "21649": {
         "id": 21649,
         "name": "Merfolk trident",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -19402,7 +19402,7 @@
     "22325": {
         "id": 22325,
         "name": "Scythe of vitur",
-        "last_updated": "2024-02-09",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -19489,7 +19489,7 @@
     "22333": {
         "id": 22333,
         "name": "Starter bow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -19566,7 +19566,7 @@
     "22486": {
         "id": 22486,
         "name": "Scythe of vitur (uncharged)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -19653,7 +19653,7 @@
     "22547": {
         "id": 22547,
         "name": "Craw's bow (u)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -19732,7 +19732,7 @@
     "22550": {
         "id": 22550,
         "name": "Craw's bow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -19811,7 +19811,7 @@
     "22610": {
         "id": 22610,
         "name": "Vesta's spear",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -19897,7 +19897,7 @@
     "23206": {
         "id": 23206,
         "name": "Dual sai",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -19981,7 +19981,7 @@
     "23235": {
         "id": 23235,
         "name": "Tzhaar-ket-om (t)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -20060,7 +20060,7 @@
     "23282": {
         "id": 23282,
         "name": "Gilded spade",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -20137,7 +20137,7 @@
     "23357": {
         "id": 23357,
         "name": "Rain bow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -20214,7 +20214,7 @@
     "23446": {
         "id": 23446,
         "name": "Giant easter egg",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -20291,7 +20291,7 @@
     "23630": {
         "id": 23630,
         "name": "Heavy ballista",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -20370,7 +20370,7 @@
     "23849": {
         "id": 23849,
         "name": "Corrupted halberd (basic)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -20447,7 +20447,7 @@
     "23850": {
         "id": 23850,
         "name": "Corrupted halberd (attuned)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -20524,7 +20524,7 @@
     "23851": {
         "id": 23851,
         "name": "Corrupted halberd (perfected)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -20601,7 +20601,7 @@
     "23852": {
         "id": 23852,
         "name": "Corrupted staff (basic)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -20678,7 +20678,7 @@
     "23853": {
         "id": 23853,
         "name": "Corrupted staff (attuned)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -20755,7 +20755,7 @@
     "23854": {
         "id": 23854,
         "name": "Corrupted staff (perfected)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -20832,7 +20832,7 @@
     "23855": {
         "id": 23855,
         "name": "Corrupted bow (basic)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -20909,7 +20909,7 @@
     "23856": {
         "id": 23856,
         "name": "Corrupted bow (attuned)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -20986,7 +20986,7 @@
     "23857": {
         "id": 23857,
         "name": "Corrupted bow (perfected)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -21063,7 +21063,7 @@
     "23895": {
         "id": 23895,
         "name": "Crystal halberd (basic)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -21140,7 +21140,7 @@
     "23896": {
         "id": 23896,
         "name": "Crystal halberd (attuned)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -21217,7 +21217,7 @@
     "23897": {
         "id": 23897,
         "name": "Crystal halberd (perfected)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -21294,7 +21294,7 @@
     "23898": {
         "id": 23898,
         "name": "Crystal staff (basic)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -21371,7 +21371,7 @@
     "23899": {
         "id": 23899,
         "name": "Crystal staff (attuned)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -21448,7 +21448,7 @@
     "23900": {
         "id": 23900,
         "name": "Crystal staff (perfected)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -21525,7 +21525,7 @@
     "23901": {
         "id": 23901,
         "name": "Crystal bow (basic)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -21602,7 +21602,7 @@
     "23902": {
         "id": 23902,
         "name": "Crystal bow (attuned)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -21679,7 +21679,7 @@
     "23903": {
         "id": 23903,
         "name": "Crystal bow (perfected)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -21756,7 +21756,7 @@
     "23983": {
         "id": 23983,
         "name": "Crystal bow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -21836,7 +21836,7 @@
     "23985": {
         "id": 23985,
         "name": "Crystal bow (inactive)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -21913,7 +21913,7 @@
     "23987": {
         "id": 23987,
         "name": "Crystal halberd",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -21994,7 +21994,7 @@
     "23989": {
         "id": 23989,
         "name": "Crystal halberd (inactive)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -22071,7 +22071,7 @@
     "24123": {
         "id": 24123,
         "name": "Crystal bow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -22151,7 +22151,7 @@
     "24125": {
         "id": 24125,
         "name": "Crystal halberd",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -22232,7 +22232,7 @@
     "24225": {
         "id": 24225,
         "name": "Granite maul",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -22311,7 +22311,7 @@
     "24227": {
         "id": 24227,
         "name": "Granite maul",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -22390,7 +22390,7 @@
     "24327": {
         "id": 24327,
         "name": "Skeleton lantern",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -22467,7 +22467,7 @@
     "24372": {
         "id": 24372,
         "name": "Twisted dragon trophy",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -22544,7 +22544,7 @@
     "24374": {
         "id": 24374,
         "name": "Twisted rune trophy",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -22621,7 +22621,7 @@
     "24376": {
         "id": 24376,
         "name": "Twisted adamant trophy",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -22698,7 +22698,7 @@
     "25042": {
         "id": 25042,
         "name": "Trailblazer dragon trophy",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -22775,7 +22775,7 @@
     "25044": {
         "id": 25044,
         "name": "Trailblazer rune trophy",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -22852,7 +22852,7 @@
     "25046": {
         "id": 25046,
         "name": "Trailblazer adamant trophy",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -22929,7 +22929,7 @@
     "25314": {
         "id": 25314,
         "name": "Giant boulder",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -23006,7 +23006,7 @@
     "25484": {
         "id": 25484,
         "name": "Soulreaper axe",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -23090,7 +23090,7 @@
     "25500": {
         "id": 25500,
         "name": "Cursed banana",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -23167,7 +23167,7 @@
     "25516": {
         "id": 25516,
         "name": "Dharok's greataxe",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -23251,7 +23251,7 @@
     "25604": {
         "id": 25604,
         "name": "Gregg's eastdoor",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -23328,7 +23328,7 @@
     "25721": {
         "id": 25721,
         "name": "Clan vexillum",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -23412,7 +23412,7 @@
     "25723": {
         "id": 25723,
         "name": "Clan vexillum",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -23496,7 +23496,7 @@
     "25724": {
         "id": 25724,
         "name": "Clan vexillum",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -23580,7 +23580,7 @@
     "25725": {
         "id": 25725,
         "name": "Clan vexillum",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -23664,7 +23664,7 @@
     "25726": {
         "id": 25726,
         "name": "Clan vexillum",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -23748,7 +23748,7 @@
     "25727": {
         "id": 25727,
         "name": "Clan vexillum",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -23832,7 +23832,7 @@
     "25728": {
         "id": 25728,
         "name": "Clan vexillum",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -23916,7 +23916,7 @@
     "25729": {
         "id": 25729,
         "name": "Clan vexillum",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -24000,7 +24000,7 @@
     "25736": {
         "id": 25736,
         "name": "Holy scythe of vitur",
-        "last_updated": "2024-02-09",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -24084,7 +24084,7 @@
     "25738": {
         "id": 25738,
         "name": "Holy scythe of vitur (uncharged)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -24168,7 +24168,7 @@
     "25739": {
         "id": 25739,
         "name": "Sanguine scythe of vitur",
-        "last_updated": "2024-02-09",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -24252,7 +24252,7 @@
     "25741": {
         "id": 25741,
         "name": "Sanguine scythe of vitur (uncharged)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -24336,7 +24336,7 @@
     "25822": {
         "id": 25822,
         "name": "Protest banner",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -24420,7 +24420,7 @@
     "25862": {
         "id": 25862,
         "name": "Bow of faerdhinen (inactive)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -24497,7 +24497,7 @@
     "25865": {
         "id": 25865,
         "name": "Bow of faerdhinen",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -24576,7 +24576,7 @@
     "25867": {
         "id": 25867,
         "name": "Bow of faerdhinen (c)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -24653,7 +24653,7 @@
     "25884": {
         "id": 25884,
         "name": "Bow of faerdhinen (c)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -24730,7 +24730,7 @@
     "25886": {
         "id": 25886,
         "name": "Bow of faerdhinen (c)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -24807,7 +24807,7 @@
     "25888": {
         "id": 25888,
         "name": "Bow of faerdhinen (c)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -24884,7 +24884,7 @@
     "25890": {
         "id": 25890,
         "name": "Bow of faerdhinen (c)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -24961,7 +24961,7 @@
     "25892": {
         "id": 25892,
         "name": "Bow of faerdhinen (c)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -25038,7 +25038,7 @@
     "25894": {
         "id": 25894,
         "name": "Bow of faerdhinen (c)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -25115,7 +25115,7 @@
     "25896": {
         "id": 25896,
         "name": "Bow of faerdhinen (c)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -25192,7 +25192,7 @@
     "26233": {
         "id": 26233,
         "name": "Ancient godsword",
-        "last_updated": "2024-06-25",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -25276,7 +25276,7 @@
     "26511": {
         "id": 26511,
         "name": "Shattered relics adamant trophy",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -25353,7 +25353,7 @@
     "26513": {
         "id": 26513,
         "name": "Shattered relics rune trophy",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -25430,7 +25430,7 @@
     "26515": {
         "id": 26515,
         "name": "Shattered relics dragon trophy",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -25507,7 +25507,7 @@
     "26649": {
         "id": 26649,
         "name": "Skis",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -25584,7 +25584,7 @@
     "26708": {
         "id": 26708,
         "name": "Dragon claws (or)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -25668,7 +25668,7 @@
     "26712": {
         "id": 26712,
         "name": "Heavy ballista (or)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -25745,7 +25745,7 @@
     "27021": {
         "id": 27021,
         "name": "Colossal blade",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -25829,7 +25829,7 @@
     "27100": {
         "id": 27100,
         "name": "Elder maul (or)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -25906,7 +25906,7 @@
     "27184": {
         "id": 27184,
         "name": "Ancient godsword",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -25990,7 +25990,7 @@
     "27187": {
         "id": 27187,
         "name": "Bow of faerdhinen",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -26067,7 +26067,7 @@
     "27188": {
         "id": 27188,
         "name": "Light ballista",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -26144,7 +26144,7 @@
     "27189": {
         "id": 27189,
         "name": "Verac's flail",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -26228,7 +26228,7 @@
     "27275": {
         "id": 27275,
         "name": "Tumeken's shadow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -26305,7 +26305,7 @@
     "27277": {
         "id": 27277,
         "name": "Tumeken's shadow (uncharged)",
-        "last_updated": "2024-06-25",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -26382,7 +26382,7 @@
     "27414": {
         "id": 27414,
         "name": "Giant stopwatch",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -26459,7 +26459,7 @@
     "27418": {
         "id": 27418,
         "name": "Bronze speedrun trophy",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -26536,7 +26536,7 @@
     "27420": {
         "id": 27420,
         "name": "Silver speedrun trophy",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -26613,7 +26613,7 @@
     "27422": {
         "id": 27422,
         "name": "Gold speedrun trophy",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -26690,7 +26690,7 @@
     "27424": {
         "id": 27424,
         "name": "Platinum speedrun trophy",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -26767,7 +26767,7 @@
     "27610": {
         "id": 27610,
         "name": "Venator bow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -26844,7 +26844,7 @@
     "27612": {
         "id": 27612,
         "name": "Venator bow (uncharged)",
-        "last_updated": "2024-05-11",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -26921,7 +26921,7 @@
     "27645": {
         "id": 27645,
         "name": "Mystic cards",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -26998,7 +26998,7 @@
     "27652": {
         "id": 27652,
         "name": "Webweaver bow (u)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -27075,7 +27075,7 @@
     "27655": {
         "id": 27655,
         "name": "Webweaver bow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -27152,7 +27152,7 @@
     "27783": {
         "id": 27783,
         "name": "Diamond speedrun trophy",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -27229,7 +27229,7 @@
     "27853": {
         "id": 27853,
         "name": "Dark bow (bh)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -27306,7 +27306,7 @@
     "27855": {
         "id": 27855,
         "name": "Barrelchest anchor (bh)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -27390,7 +27390,7 @@
     "27871": {
         "id": 27871,
         "name": "Giant bronze dagger",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -27474,7 +27474,7 @@
     "27900": {
         "id": 27900,
         "name": "Vesta's spear (bh)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -27558,7 +27558,7 @@
     "28039": {
         "id": 28039,
         "name": "Dragon claws (cr)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -27642,7 +27642,7 @@
     "28041": {
         "id": 28041,
         "name": "Dragon spear (cr)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -27726,7 +27726,7 @@
     "28043": {
         "id": 28043,
         "name": "Dragon spear (p)(cr)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -27810,7 +27810,7 @@
     "28045": {
         "id": 28045,
         "name": "Dragon spear (p+)(cr)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -27894,7 +27894,7 @@
     "28047": {
         "id": 28047,
         "name": "Dragon spear (p++)(cr)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -27978,7 +27978,7 @@
     "28049": {
         "id": 28049,
         "name": "Dragon halberd (cr)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -28055,7 +28055,7 @@
     "28051": {
         "id": 28051,
         "name": "Dragon 2h sword (cr)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -28139,7 +28139,7 @@
     "28128": {
         "id": 28128,
         "name": "Love crossbow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -28216,7 +28216,7 @@
     "28196": {
         "id": 28196,
         "name": "Bronze felling axe",
-        "last_updated": "2023-11-01",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -28300,7 +28300,7 @@
     "28199": {
         "id": 28199,
         "name": "Iron felling axe",
-        "last_updated": "2023-11-01",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -28384,7 +28384,7 @@
     "28202": {
         "id": 28202,
         "name": "Steel felling axe",
-        "last_updated": "2023-11-01",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -28468,7 +28468,7 @@
     "28205": {
         "id": 28205,
         "name": "Black felling axe",
-        "last_updated": "2023-11-01",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -28552,7 +28552,7 @@
     "28208": {
         "id": 28208,
         "name": "Mithril felling axe",
-        "last_updated": "2023-11-01",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -28636,7 +28636,7 @@
     "28211": {
         "id": 28211,
         "name": "Adamant felling axe",
-        "last_updated": "2023-11-01",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -28720,7 +28720,7 @@
     "28214": {
         "id": 28214,
         "name": "Rune felling axe",
-        "last_updated": "2023-11-01",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -28804,7 +28804,7 @@
     "28217": {
         "id": 28217,
         "name": "Dragon felling axe",
-        "last_updated": "2023-11-01",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -28888,7 +28888,7 @@
     "28220": {
         "id": 28220,
         "name": "Crystal felling axe",
-        "last_updated": "2023-12-03",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -28972,7 +28972,7 @@
     "28223": {
         "id": 28223,
         "name": "Crystal felling axe (inactive)",
-        "last_updated": "2023-12-03",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -29056,7 +29056,7 @@
     "28226": {
         "id": 28226,
         "name": "3rd age felling axe",
-        "last_updated": "2024-04-16",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -29140,7 +29140,7 @@
     "28338": {
         "id": 28338,
         "name": "Soulreaper axe",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -29224,7 +29224,7 @@
     "28534": {
         "id": 28534,
         "name": "Corrupted dragon claws",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -29308,7 +29308,7 @@
     "28537": {
         "id": 28537,
         "name": "Corrupted armadyl godsword",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -29392,7 +29392,7 @@
     "28540": {
         "id": 28540,
         "name": "Corrupted twisted bow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -29469,7 +29469,7 @@
     "28543": {
         "id": 28543,
         "name": "Corrupted scythe of vitur",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -29553,7 +29553,7 @@
     "28545": {
         "id": 28545,
         "name": "Corrupted scythe of vitur (uncharged)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -29637,7 +29637,7 @@
     "28547": {
         "id": 28547,
         "name": "Corrupted tumeken's shadow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -29714,7 +29714,7 @@
     "28549": {
         "id": 28549,
         "name": "Corrupted tumeken's shadow (uncharged)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -29791,7 +29791,7 @@
     "28555": {
         "id": 28555,
         "name": "Starter bow",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -29868,7 +29868,7 @@
     "28682": {
         "id": 28682,
         "name": "Dinh's blazing bulwark",
-        "last_updated": "2023-12-03",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -29938,7 +29938,7 @@
     "28688": {
         "id": 28688,
         "name": "Blazing blowpipe",
-        "last_updated": "2023-12-03",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -30015,7 +30015,7 @@
     "28751": {
         "id": 28751,
         "name": "Trailblazer reloaded dragon trophy",
-        "last_updated": "2024-01-05",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -30092,7 +30092,7 @@
     "28753": {
         "id": 28753,
         "name": "Trailblazer reloaded rune trophy",
-        "last_updated": "2024-01-05",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -30169,7 +30169,7 @@
     "28755": {
         "id": 28755,
         "name": "Trailblazer reloaded adamant trophy",
-        "last_updated": "2024-01-05",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -30246,7 +30246,7 @@
     "28794": {
         "id": 28794,
         "name": "Bone shortbow",
-        "last_updated": "2024-03-02",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -30323,7 +30323,7 @@
     "28834": {
         "id": 28834,
         "name": "Tecu salamander",
-        "last_updated": "2024-03-22",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -30400,7 +30400,7 @@
     "28988": {
         "id": 28988,
         "name": "Blue moon spear",
-        "last_updated": "2024-06-01",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -30491,7 +30491,7 @@
     "28997": {
         "id": 28997,
         "name": "Dual macuahuitl",
-        "last_updated": "2024-04-16",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -30575,7 +30575,7 @@
     "29000": {
         "id": 29000,
         "name": "Eclipse atlatl",
-        "last_updated": "2024-06-25",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -30652,7 +30652,7 @@
     "29084": {
         "id": 29084,
         "name": "Sulphur blades",
-        "last_updated": "2024-03-22",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,

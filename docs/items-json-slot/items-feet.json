@@ -5391,7 +5391,7 @@
     "19695": {
         "id": 19695,
         "name": "Clue hunter boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -5442,7 +5442,7 @@
     "19921": {
         "id": 19921,
         "name": "Ancient d'hide boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -5496,7 +5496,7 @@
     "19924": {
         "id": 19924,
         "name": "Bandos d'hide boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -5550,7 +5550,7 @@
     "19927": {
         "id": 19927,
         "name": "Guthix d'hide boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -5604,7 +5604,7 @@
     "19930": {
         "id": 19930,
         "name": "Armadyl d'hide boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -5658,7 +5658,7 @@
     "19933": {
         "id": 19933,
         "name": "Saradomin d'hide boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -5712,7 +5712,7 @@
     "19936": {
         "id": 19936,
         "name": "Zamorak d'hide boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -5766,7 +5766,7 @@
     "19967": {
         "id": 19967,
         "name": "Dark tuxedo shoes",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -5817,7 +5817,7 @@
     "19982": {
         "id": 19982,
         "name": "Light tuxedo shoes",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -5868,7 +5868,7 @@
     "20047": {
         "id": 20047,
         "name": "Samurai boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -5921,7 +5921,7 @@
     "20092": {
         "id": 20092,
         "name": "Mummy's feet",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -5972,7 +5972,7 @@
     "20107": {
         "id": 20107,
         "name": "Ankou socks",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -6023,7 +6023,7 @@
     "20140": {
         "id": 20140,
         "name": "Boots of darkness",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -6077,7 +6077,7 @@
     "20433": {
         "id": 20433,
         "name": "Evil chicken feet",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -6128,7 +6128,7 @@
     "20578": {
         "id": 20578,
         "name": "Climbing boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -6179,7 +6179,7 @@
     "20579": {
         "id": 20579,
         "name": "Mystic boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -6233,7 +6233,7 @@
     "20580": {
         "id": 20580,
         "name": "Snakeskin boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -6287,7 +6287,7 @@
     "20710": {
         "id": 20710,
         "name": "Pyromancer boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -6338,7 +6338,7 @@
     "21076": {
         "id": 21076,
         "name": "Graceful boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -6389,7 +6389,7 @@
     "21078": {
         "id": 21078,
         "name": "Graceful boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -6440,7 +6440,7 @@
     "21643": {
         "id": 21643,
         "name": "Granite boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -6493,7 +6493,7 @@
     "21733": {
         "id": 21733,
         "name": "Guardian boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -6546,7 +6546,7 @@
     "21857": {
         "id": 21857,
         "name": "Snow imp costume feet",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -6597,7 +6597,7 @@
     "22234": {
         "id": 22234,
         "name": "Dragon boots (g)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -6650,7 +6650,7 @@
     "22701": {
         "id": 22701,
         "name": "Clown shoes",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -6701,7 +6701,7 @@
     "22951": {
         "id": 22951,
         "name": "Boots of brimstone",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -6757,7 +6757,7 @@
     "22954": {
         "id": 22954,
         "name": "Devout boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -6810,7 +6810,7 @@
     "23037": {
         "id": 23037,
         "name": "Boots of stone",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -6863,7 +6863,7 @@
     "23059": {
         "id": 23059,
         "name": "Mystic boots (dusk)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -6917,7 +6917,7 @@
     "23093": {
         "id": 23093,
         "name": "Ornate boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -6968,7 +6968,7 @@
     "23285": {
         "id": 23285,
         "name": "Mole slippers",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -7019,7 +7019,7 @@
     "23288": {
         "id": 23288,
         "name": "Frog slippers",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -7070,7 +7070,7 @@
     "23291": {
         "id": 23291,
         "name": "Bear feet",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -7121,7 +7121,7 @@
     "23294": {
         "id": 23294,
         "name": "Demon feet",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -7172,7 +7172,7 @@
     "23389": {
         "id": 23389,
         "name": "Spiked manacles",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7223,7 +7223,7 @@
     "23413": {
         "id": 23413,
         "name": "Climbing boots (g)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7274,7 +7274,7 @@
     "23644": {
         "id": 23644,
         "name": "Eternal boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -7328,7 +7328,7 @@
     "24003": {
         "id": 24003,
         "name": "Elven boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7379,7 +7379,7 @@
     "24043": {
         "id": 24043,
         "name": "Dragonstone boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7432,7 +7432,7 @@
     "24313": {
         "id": 24313,
         "name": "Spooky boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -7483,7 +7483,7 @@
     "24323": {
         "id": 24323,
         "name": "Spookier boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -7534,7 +7534,7 @@
     "24393": {
         "id": 24393,
         "name": "Twisted boots (t3)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7585,7 +7585,7 @@
     "24403": {
         "id": 24403,
         "name": "Twisted boots (t2)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7636,7 +7636,7 @@
     "24411": {
         "id": 24411,
         "name": "Twisted boots (t1)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7687,7 +7687,7 @@
     "24680": {
         "id": 24680,
         "name": "Vyre noble shoes",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -7738,7 +7738,7 @@
     "24758": {
         "id": 24758,
         "name": "Graceful boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -7789,7 +7789,7 @@
     "24760": {
         "id": 24760,
         "name": "Graceful boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -7840,7 +7840,7 @@
     "24878": {
         "id": 24878,
         "name": "Carpenter's boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -7891,7 +7891,7 @@
     "25010": {
         "id": 25010,
         "name": "Trailblazer boots (t3)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7942,7 +7942,7 @@
     "25025": {
         "id": 25025,
         "name": "Trailblazer boots (t2)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -7993,7 +7993,7 @@
     "25037": {
         "id": 25037,
         "name": "Trailblazer boots (t1)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8044,7 +8044,7 @@
     "25084": {
         "id": 25084,
         "name": "Graceful boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -8095,7 +8095,7 @@
     "25086": {
         "id": 25086,
         "name": "Graceful boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -8146,7 +8146,7 @@
     "25137": {
         "id": 25137,
         "name": "Beekeeper's boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -8197,7 +8197,7 @@
     "25163": {
         "id": 25163,
         "name": "Decorative boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -8248,7 +8248,7 @@
     "25167": {
         "id": 25167,
         "name": "Decorative boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -8299,7 +8299,7 @@
     "25171": {
         "id": 25171,
         "name": "Decorative boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -8350,7 +8350,7 @@
     "25173": {
         "id": 25173,
         "name": "Decorative boots (l)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -8401,7 +8401,7 @@
     "25328": {
         "id": 25328,
         "name": "20th anniversary boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -8452,7 +8452,7 @@
     "25395": {
         "id": 25395,
         "name": "Swampbark boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8506,7 +8506,7 @@
     "25410": {
         "id": 25410,
         "name": "Bloodbark boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8560,7 +8560,7 @@
     "25440": {
         "id": 25440,
         "name": "Zealot's boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -8611,7 +8611,7 @@
     "25555": {
         "id": 25555,
         "name": "Golden prospector boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -8662,7 +8662,7 @@
     "25557": {
         "id": 25557,
         "name": "Dark flippers",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -8713,7 +8713,7 @@
     "25598": {
         "id": 25598,
         "name": "Spirit angler boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -8764,7 +8764,7 @@
     "26229": {
         "id": 26229,
         "name": "Ancient ceremonial boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8815,7 +8815,7 @@
     "26310": {
         "id": 26310,
         "name": "Festive elf slippers",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -8866,7 +8866,7 @@
     "26436": {
         "id": 26436,
         "name": "Shattered boots (t1)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8917,7 +8917,7 @@
     "26448": {
         "id": 26448,
         "name": "Shattered boots (t2)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -8968,7 +8968,7 @@
     "26460": {
         "id": 26460,
         "name": "Shattered boots (t3)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -9019,7 +9019,7 @@
     "26539": {
         "id": 26539,
         "name": "Mystic boots (or)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -9070,7 +9070,7 @@
     "26720": {
         "id": 26720,
         "name": "Bandos boots (or)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -9121,7 +9121,7 @@
     "26856": {
         "id": 26856,
         "name": "Boots of the eye",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -9172,7 +9172,7 @@
     "27027": {
         "id": 27027,
         "name": "Smiths boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -9223,7 +9223,7 @@
     "27162": {
         "id": 27162,
         "name": "Wizard boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -9274,7 +9274,7 @@
     "27170": {
         "id": 27170,
         "name": "Infinity boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -9325,7 +9325,7 @@
     "27178": {
         "id": 27178,
         "name": "Spiked manacles",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": true,
@@ -9376,7 +9376,7 @@
     "27394": {
         "id": 27394,
         "name": "Adventurer's boots (t1)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -9427,7 +9427,7 @@
     "27402": {
         "id": 27402,
         "name": "Adventurer's boots (t2)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -9478,7 +9478,7 @@
     "27410": {
         "id": 27410,
         "name": "Adventurer's boots (t3)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -9529,7 +9529,7 @@
     "27436": {
         "id": 27436,
         "name": "Socks of ruin",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -9580,7 +9580,7 @@
     "27459": {
         "id": 27459,
         "name": "Graceful boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -9631,7 +9631,7 @@
     "27461": {
         "id": 27461,
         "name": "Graceful boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -9682,7 +9682,7 @@
     "27479": {
         "id": 27479,
         "name": "Witch boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -9733,7 +9733,7 @@
     "27578": {
         "id": 27578,
         "name": "Festive nutcracker boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -9784,7 +9784,7 @@
     "27585": {
         "id": 27585,
         "name": "Sweet nutcracker boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -9835,7 +9835,7 @@
     "27806": {
         "id": 27806,
         "name": "Bob the cat slippers",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -9886,7 +9886,7 @@
     "27808": {
         "id": 27808,
         "name": "Jad slippers",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -9937,7 +9937,7 @@
     "28055": {
         "id": 28055,
         "name": "Dragon boots (cr)",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -9988,7 +9988,7 @@
     "28175": {
         "id": 28175,
         "name": "Forestry boots",
-        "last_updated": "2023-10-15",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -10039,7 +10039,7 @@
     "28618": {
         "id": 28618,
         "name": "Pheasant boots",
-        "last_updated": "2023-11-01",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -10090,7 +10090,7 @@
     "28672": {
         "id": 28672,
         "name": "Fancier boots",
-        "last_updated": "2023-12-03",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": false,
         "tradeable": false,
@@ -10141,7 +10141,7 @@
     "28721": {
         "id": 28721,
         "name": "Trailblazer reloaded boots (t1)",
-        "last_updated": "2023-12-03",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -10192,7 +10192,7 @@
     "28733": {
         "id": 28733,
         "name": "Trailblazer reloaded boots (t2)",
-        "last_updated": "2023-12-03",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -10243,7 +10243,7 @@
     "28745": {
         "id": 28745,
         "name": "Trailblazer reloaded boots (t3)",
-        "last_updated": "2023-12-03",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -10294,7 +10294,7 @@
     "28771": {
         "id": 28771,
         "name": "Sage's greaves",
-        "last_updated": "2023-12-03",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -10345,7 +10345,7 @@
     "28945": {
         "id": 28945,
         "name": "Echo boots",
-        "last_updated": "2024-04-16",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -10396,7 +10396,7 @@
     "29269": {
         "id": 29269,
         "name": "Guild hunter boots",
-        "last_updated": "2024-04-16",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
@@ -10447,7 +10447,7 @@
     "29286": {
         "id": 29286,
         "name": "Mixed hide boots",
-        "last_updated": "2024-03-22",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": true,
@@ -10498,7 +10498,7 @@
     "29478": {
         "id": 29478,
         "name": "Prospector boots",
-        "last_updated": "2024-05-11",
+        "last_updated": "2024-06-26",
         "incomplete": false,
         "members": true,
         "tradeable": false,
