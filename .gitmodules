@@ -1,6 +1,3 @@
-[submodule "data/cache/osrs-cache"]
-	path = data/cache/osrs-cache
-	url = https://github.com/abextm/osrs-cache.git
 [submodule "data/cache/osrs-flatcache"]
 	path = data/cache/osrs-flatcache
 	url = https://github.com/abextm/osrs-flatcache.git
